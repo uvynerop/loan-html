@@ -1,0 +1,35 @@
+/* Style for button */
+.button {
+    background-color: #1269eb;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+/* Style for social media icons */
+.social-icon {
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+/* Additional styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c3e6bc;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styles for mobile devices */
+@media screen and (max-width: 600px) {
+    table {
+        width: 100% !important;
+    }
+}
